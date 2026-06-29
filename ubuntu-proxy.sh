@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# auther: Dzung042
+# Auther: Dzung042
+# Donate: https://info.quantrihethong.net
 # Auto-install 3proxy on Ubuntu (18.04/20.04/22.04)
 # Features:
 #  - Auto-detect IPv4 and Interface
