@@ -16,3 +16,5 @@ Create Ipv6 sock proxy, http proxy use 3proxy on ubuntu
 ```sh
 curl -Lso- https://raw.githubusercontent.com/dzung042/3proxy-ipv6-ubuntu/refs/heads/main/ubuntu-proxy.sh | bash
 ```
+# Donate:
+[https://info.quantrihethong.net](Donate)
